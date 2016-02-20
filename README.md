@@ -1,0 +1,1 @@
+# slides-js-strict-mode
